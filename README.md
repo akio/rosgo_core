@@ -1,0 +1,4 @@
+rosgo
+=====
+
+rosgo metapackage
