@@ -1,4 +1,4 @@
-rosgo
-=====
+rosgo_core
+===============
 
-rosgo metapackage
+Metapackage of ROS client library for Go.
